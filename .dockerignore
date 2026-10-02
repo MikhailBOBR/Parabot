@@ -1,0 +1,10 @@
+.env
+.venv
+data
+tests
+__pycache__
+.pytest_cache
+.ruff_cache
+.uv-cache
+.pytest-result.txt
+*.pyc
